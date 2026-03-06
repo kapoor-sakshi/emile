@@ -1,4 +1,7 @@
 # Emile
+
+
+
 this is readme
 A workflow companion for [Zola](https://getzola.org).
 
@@ -210,5 +213,6 @@ You can add a social template of a different language by adding `.lang` before `
 the file’s name.
 
 ex: `social.fr.txt` and `social_link.fr.txt` 
+
 
 
